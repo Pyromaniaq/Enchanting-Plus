@@ -1,0 +1,35 @@
+var LocalRU = function(en,rus){
+Translation.addTranslation(en,{ru:rus});
+}
+
+LocalRU("Advanced Enchantment Table","Продвинутый стол зачарований");
+LocalRU("Table Upgrade","Улучшение стола зачарований");
+LocalRU("Need lvl: ","Треб. ур. : ");
+LocalRU("Max Enc. lvl: ", "Макс. ур. зачар. : ");
+
+LocalRU("Looting:", "Добыча:");
+LocalRU("Efficiency:", "Эффективность:");
+LocalRU("Fortune:", "Удача:");
+LocalRU("Unbreaking:", "Прочность:");
+LocalRU("Efficiency:", "Эффективность:");
+LocalRU("Silk Touch:", "Шелковое касание:");
+LocalRU("Fire Aspect:", "Заговор огня:");
+LocalRU("Sharpness:", "Острота:");
+LocalRU("Infinity:", "Бесконечность:");
+LocalRU("Power:", "Сила:");
+LocalRU("Knockback:", "Отдача:");
+LocalRU("Flame:", "Горящая стрела:");
+LocalRU("Punch:", "Откидывание:");
+LocalRU("Smite:", "Небесная кара:");
+LocalRU("Bane Of Arthropods:", "Гибель насекомых:");
+
+LocalRU("Protection:", "Защита:");
+LocalRU("Fire Protection:", "Огнеупорность:");
+LocalRU("Blast Protection:", "Взрывоустойчивость:");
+LocalRU("Projectile Protection:", "Защита от снарядов:");
+LocalRU("Blast Protection:", "Взрывоустойчивость:");
+LocalRU("Feather Falling:", "Защита от падения:");
+LocalRU("Respiration:", "Подводное дыхание:");
+LocalRU("Aqua Affinity:", "Родство с водой:");
+LocalRU("Thorns:", "Шипы:");
+LocalRU("Depth Strider:", "Подводная ходьба:");
